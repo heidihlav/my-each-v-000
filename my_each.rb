@@ -7,7 +7,7 @@ def my_each(array) # put argument(s) here
    array
 end
 
-collection = ["Cat", "Dog", "Bird"]
-my_each(collection) do |i|
-  puts i
-end
+# collection = ["Cat", "Dog", "Bird"]
+# my_each(collection) do |i|
+#   puts i
+# end
