@@ -7,7 +7,4 @@ def my_each(array) # put argument(s) here
    array
 end
 
-# collection = ["Cat", "Dog", "Bird"]
-# my_each(collection) do |i|
-#   puts i
-# end
+# Can run this code to test it with Yield and Blocks lab method call.
